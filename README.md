@@ -2,7 +2,7 @@
 - 👀 Who's interested in spreading the wonders of tech to unreached parts of the world
 - 🌱 I’m a frontend developer currently learning Ethereum development
 - 💞️ I’m looking to collaborate on anything that falls within my skillset
-- 📫 How to reach me email: kattydee3@gmail.com instagram:@kaaahtea
+- 📫 How to reach me email: katrinadiretnan@gmail.com instagram:@kaaahtea
 
 <!---
 kattyd/kattyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
