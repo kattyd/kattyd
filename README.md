@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Katrina. I'm a university student...
 - 👀 Who's interested in spreading the wonders of tech to unreached parts of the world
-- 🌱 I’m a frontend developer currently learning Ethereum development
+- 🌱 I’m a frontend developer
 - 💞️ I’m looking to collaborate on anything that falls within my skillset
 - 📫 How to reach me email: katrinadiretnan@gmail.com instagram:@kaaahtea
 
